@@ -1,3 +1,4 @@
 # Dunl-resights
 resightings from the EAAF
-Newbie here, just trying to figure out this version control stuff
+
+# subspecific during winter (dec-feb) and migratory staging grounds (mar-may ; aug-nov)
