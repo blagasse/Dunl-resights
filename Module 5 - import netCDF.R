@@ -136,7 +136,7 @@ sst.2015.05 <- ncvar_get(sst.2015.05.nc, varid="sst")
 
 image.plot(lon2, lat2, sst.2015.05,
            col = c(tim.colors(),"black"),
-           xlab = "Longitude (E)", ylab = "Latitude (N)")
+           xlab = "Longitude (E)", ylab = "Latitude)
 map("world2", add=T, fill=T)
 
 
